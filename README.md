@@ -1,6 +1,6 @@
 memcacheq-php
 =============
 
-A PHP wrapper for Memcacheq.
+A PHP wrapper for MemcacheQ.
 
 --EOF--
